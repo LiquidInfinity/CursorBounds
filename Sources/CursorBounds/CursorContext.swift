@@ -374,7 +374,7 @@ public extension Browser {
     static let librewolf = Browser(bundleID: "io.gitlab.librewolf-community", name: "LibreWolf")
     static let chromium = Browser(bundleID: "org.chromium.Chromium", name: "Chromium")
     static let yandex = Browser(bundleID: "ru.yandex.desktop.yandex-browser", name: "Yandex")
-    static let dia = Browser(bundleID: "org.gnome.Dia", name: "Dia")
+    static let dia = Browser(bundleID: "company.thebrowser.dia", name: "Dia")
     static let zen = Browser(bundleID: "app.zen-browser.zen", name: "Zen")
     
     /// All commonly known browsers
